@@ -50,7 +50,9 @@ namespace UnidadeTesteJenkins
         [TestMethod]
         public void MetodoSemErro3()
         {
+
             Assert.AreEqual(3, 3);
+
         }
 
     }
