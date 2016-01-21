@@ -7,9 +7,15 @@ namespace UnidadeTesteJenkins
     public class UnitTest1
     {
         [TestMethod]
-        public void TestMethod1()
+        public void MetodoSemErro()
         {
             Assert.AreEqual(1, 1);
+        }
+
+        [TestMethod]
+        public void MetodoComErro()
+        {
+            Assert.AreEqual(1, 2);
         }
     }
 }
