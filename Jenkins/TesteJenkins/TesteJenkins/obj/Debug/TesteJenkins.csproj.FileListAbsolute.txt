@@ -11,3 +11,4 @@ C:\jenkinsTeste\Jenkins\TesteJenkins\TesteJenkins\obj\Debug\TesteJenkins.Propert
 C:\jenkinsTeste\Jenkins\TesteJenkins\TesteJenkins\obj\Debug\TesteJenkins.csproj.GenerateResource.Cache
 C:\jenkinsTeste\Jenkins\TesteJenkins\TesteJenkins\bin\Debug\TesteJenkins.exe
 C:\jenkinsTeste\Jenkins\TesteJenkins\TesteJenkins\bin\Debug\TesteJenkins.pdb
+C:\jenkinsTeste\Jenkins\TesteJenkins\TesteJenkins\obj\Debug\TesteJenkins.csprojResolveAssemblyReference.cache

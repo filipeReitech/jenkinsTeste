@@ -1,0 +1,5 @@
+C:\jenkinsTeste\Jenkins\TesteJenkins\UnidadeTesteJenkins\bin\Debug\UnidadeTesteJenkins.dll
+C:\jenkinsTeste\Jenkins\TesteJenkins\UnidadeTesteJenkins\bin\Debug\UnidadeTesteJenkins.pdb
+C:\jenkinsTeste\Jenkins\TesteJenkins\UnidadeTesteJenkins\obj\Debug\UnidadeTesteJenkins.csprojResolveAssemblyReference.cache
+C:\jenkinsTeste\Jenkins\TesteJenkins\UnidadeTesteJenkins\obj\Debug\UnidadeTesteJenkins.dll
+C:\jenkinsTeste\Jenkins\TesteJenkins\UnidadeTesteJenkins\obj\Debug\UnidadeTesteJenkins.pdb
