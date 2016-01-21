@@ -7,3 +7,6 @@ C:\Reitech\Jenkins\TesteJenkins\TesteJenkins\obj\Debug\TesteJenkins.exe
 C:\Reitech\Jenkins\TesteJenkins\TesteJenkins\obj\Debug\TesteJenkins.pdb
 C:\jenkinsTeste\Jenkins\TesteJenkins\TesteJenkins\obj\Debug\TesteJenkins.exe
 C:\jenkinsTeste\Jenkins\TesteJenkins\TesteJenkins\obj\Debug\TesteJenkins.pdb
+C:\jenkinsTeste\Jenkins\TesteJenkins\TesteJenkins\obj\Debug\TesteJenkins.csprojResolveAssemblyReference.cache
+C:\jenkinsTeste\Jenkins\TesteJenkins\TesteJenkins\obj\Debug\TesteJenkins.Properties.Resources.resources
+C:\jenkinsTeste\Jenkins\TesteJenkins\TesteJenkins\obj\Debug\TesteJenkins.csproj.GenerateResource.Cache

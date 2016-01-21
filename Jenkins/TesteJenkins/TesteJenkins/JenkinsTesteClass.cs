@@ -7,7 +7,7 @@ using System.Text;
 namespace TesteJenkins
 {
     [TestClass]
-    public class JenkinsTeste
+    public class JenkinsTesteClass
     {
 
         [TestMethod]
