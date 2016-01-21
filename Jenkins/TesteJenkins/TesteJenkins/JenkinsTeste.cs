@@ -16,6 +16,7 @@ namespace TesteJenkins
             Assert.AreEqual(1, 1);
             var qwr = rwq;
             var 14 = 41;
+            var wr = lle;
         }
 
     }
