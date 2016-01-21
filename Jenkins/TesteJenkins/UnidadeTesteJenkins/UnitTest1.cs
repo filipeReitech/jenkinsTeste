@@ -12,23 +12,23 @@ namespace UnidadeTesteJenkins
             Assert.AreEqual(1, 1);
         }
 
-        [TestMethod]
-        public void MetodoComErro()
-        {
-            Assert.AreEqual(1, 2);
-        }
+        //[TestMethod]
+        //public void MetodoComErro()
+        //{
+        //    Assert.AreEqual(1, 2);
+        //}
 
-        [TestMethod]
-        public void MetodoComErro2()
-        {
-            Assert.AreEqual(1, 22);
-        }
+        //[TestMethod]
+        //public void MetodoComErro2()
+        //{
+        //    Assert.AreEqual(1, 22);
+        //}
 
-        [TestMethod]
-        public void MetodoComErro3()
-        {
-            Assert.AreEqual(1, 3);
-        }
+        //[TestMethod]
+        //public void MetodoComErro3()
+        //{
+        //    Assert.AreEqual(1, 3);
+        //}
 
         //[TestMethod]
         //public void MetodoComErro4()
