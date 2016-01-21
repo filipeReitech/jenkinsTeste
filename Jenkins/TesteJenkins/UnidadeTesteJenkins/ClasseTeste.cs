@@ -4,10 +4,15 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace UnidadeTesteJenkins
 {
     [TestClass]
-    public class UnitTest1
+    public class ClasseTeste
     {
         [TestMethod]
         public void MetodoSemErro()
+        {
+            Assert.AreEqual(1, 1);
+        }
+        [TestMethod]
+        public void OlaAmigo()
         {
             Assert.AreEqual(1, 1);
         }
