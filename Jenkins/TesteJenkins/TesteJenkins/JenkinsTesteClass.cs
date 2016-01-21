@@ -13,7 +13,7 @@ namespace TesteJenkins
         [TestMethod]
         public void MyTestMethod()
         {
-            //var abc = rw;
+            var abc = rw;
             Assert.AreEqual(1, 1);
         }
 
