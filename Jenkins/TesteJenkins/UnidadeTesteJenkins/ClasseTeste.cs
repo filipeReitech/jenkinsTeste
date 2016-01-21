@@ -44,8 +44,10 @@ namespace UnidadeTesteJenkins
         [TestMethod]
         public void MetodoSemErro2()
         {
+
             Assert.AreEqual(2, 2);
         }
+
 
         [TestMethod]
         public void MetodoSemErro3()
