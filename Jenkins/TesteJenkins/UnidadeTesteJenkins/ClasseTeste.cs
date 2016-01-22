@@ -44,13 +44,13 @@ namespace UnidadeTesteJenkins
 
         //}
 
-        //[TestMethod]
-        //public void MetodoSemErro2()
-        //{
-        //    var abd = 3;
-        //    Assert.AreEqual(2, 2);
+        [TestMethod]
+        public void MetodoSemErro2()
+        {
+            var abd = 3;
+            Assert.AreEqual(2, 2);
 
-        //}
+        }
 
 
         //[TestMethod]
