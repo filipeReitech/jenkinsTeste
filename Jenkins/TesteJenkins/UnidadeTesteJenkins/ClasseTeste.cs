@@ -6,11 +6,11 @@ namespace UnidadeTesteJenkins
     [TestClass]
     public class ClasseTeste
     {
-        [TestMethod]
-        public void MetodoSemErro()
-        {
-            Assert.AreEqual(1, 1);
-        }
+        //[TestMethod]
+        //public void MetodoSemErro()
+        //{
+        //    Assert.AreEqual(1, 1);
+        //}
         [TestMethod]
         public void OlaAmigo()
         {
@@ -43,22 +43,22 @@ namespace UnidadeTesteJenkins
 
         //}
 
-        [TestMethod]
-        public void MetodoSemErro2()
-        {
-            var abd = 3;
-            Assert.AreEqual(2, 2);
+        //[TestMethod]
+        //public void MetodoSemErro2()
+        //{
+        //    var abd = 3;
+        //    Assert.AreEqual(2, 2);
 
-        }
+        //}
 
 
-        [TestMethod]
-        public void MetodoSemErro3()
-        {
+        //[TestMethod]
+        //public void MetodoSemErro3()
+        //{
 
-            Assert.AreEqual(3, 3);
+        //    Assert.AreEqual(3, 3);
 
-        }
+        //}
 
     }
 }
