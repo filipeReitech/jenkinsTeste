@@ -29,11 +29,11 @@ namespace UnidadeTesteJenkins
         //    Assert.AreEqual(1, 22);
         //}
 
-        //[TestMethod]
-        //public void MetodoComErro3()
-        //{
-        //    Assert.AreEqual(1, 3);
-        //}
+        [TestMethod]
+        public void MetodoComErro3()
+        {
+            Assert.AreEqual(1, 3);
+        }
 
         [TestMethod]
         public void MetodoComErro4()
