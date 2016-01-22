@@ -10,6 +10,8 @@ namespace UnidadeTesteJenkins
         public void MetodoSemErro()
         {
             Assert.AreEqual(1, 1);
+
+
         }
         [TestMethod]
         public void OlaAmigo()
